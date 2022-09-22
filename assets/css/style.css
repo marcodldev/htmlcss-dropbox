@@ -43,130 +43,155 @@
     position: relative;
 }
 
- button {
+button {
     background-color: #0061ff;
     padding: 10px 20px;
     border: none;
     color: white;
- }
+}
 
 
-     /* HEADER  */
+/* HEADER  */
 
-     li {
-        list-style: none;
-        display: inline ;
-     }
+li {
+    list-style: none;
+    display: inline;
+}
 
-     nav {
-        padding: 20px 40px;
-        position: fixed;
-        width: 100%;
-        top: 0;
-        background-color: white;
-        font-weight: bold;
-        z-index: 1;
-     }
+nav {
+    padding: 20px 40px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: white;
+    font-weight: bold;
+    z-index: 1;
+}
 
-     header {
-        background-color: #b4d0e7;
-     }
+header {
+    background-color: #b4d0e7;
+}
 
-     .titolo {
-        margin-top: 70px;
-     }
+.titolo {
+    margin-top: 70px;
+}
 
-     .titoloh1 {
-        padding-top: 9%;
-        font-size: xx-large;
-     }
+.titoloh1 {
+    padding-top: 9%;
+    font-size: xx-large;
+}
 
-     .jumbo img {
-        width: 100%;
-     }
+.jumbo img {
+    width: 100%;
+}
 
-     .didtitolo {
-        padding-top: 20px;
-     }
+.didtitolo {
+    padding-top: 20px;
+}
 
-     .didtitolo button {
-        margin: 30px 0;
-     }
+.didtitolo button {
+    margin: 30px 0;
+}
 
-     #idicona {
-        position: absolute;
-        bottom: 2%;
-        font-size: xxx-large;
-     }
+#idicona {
+    position: absolute;
+    bottom: 2%;
+    font-size: xxx-large;
+}
 
-        /* MAIN      */
+/* MAIN      */
 
-     .titmain {
-        padding: 8% 0px;
-     }
+.titmain {
+    padding: 8% 0px;
+}
 
-     .tab2 {
-        width: calc(100%/3);
-        border: 1px solid lightgray;
-        padding-bottom: 10%;
-     }
+.tab2 {
+    width: calc(100%/3);
+    border: 1px solid lightgray;
+    padding-bottom: 10%;
+}
 
-     #margtab2 {
-        margin: 0 10px;
-     }
+#margtab2 {
+    margin: 0 10px;
+}
 
-     .kindofppl {
-        justify-content: center;
-        width: 100%;
-        text-align: center;
-        border-bottom: 1px solid lightgrey;
-        padding: 10px 0px;
-     }
+.kindofppl {
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px 0px;
+}
 
-     .offerte button {
-        margin: 10px 20px;
-     }
+.offerte button {
+    margin: 10px 20px;
+}
 
-     .icons {
-        font-size: larger;
-        color: #0061ff;
-     }
+.icons {
+    font-size: larger;
+    color: #0061ff;
+}
 
-     .pad1 {
-        padding: 15px 20px;
-     }
+.pad1 {
+    padding: 15px 20px;
+}
 
-     .offerte h2 {
-        margin: 20px 0px;
-     }
-      
-     section li {
-        display: block;
-        line-height: 30px;
-     }
+.offerte h2 {
+    margin: 20px 0px;
+}
 
-     /* SECTION 2  */
+section li {
+    display: block;
+    line-height: 30px;
+}
 
-     .sec2 {
-        border: 1px solid lightgray;
-        margin-top: 20px;
-     }
+/* SECTION 2  */
 
-     .pad2 {
-        padding: 20px 20px;
-     }
+.sec2 {
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
 
-     h2 {
-        margin: 20px 0;
-     }
+.pad2 {
+    padding: 20px 20px;
+}
 
-     #section2 button,p {
-        margin: 20px 0;
-        
-     }
+h2 {
+    margin: 20px 0;
+}
 
-     #scritte { 
-        width: 70%;
+#section2 button,
+p {
+    margin: 20px 0;
 
-     }
-    
+}
+
+#scritte {
+    width: 70%;
+
+}
+
+#scritte h4 {
+    margin-bottom: 60px;
+}
+
+.sec3 {
+    border: 1px solid lightgray;
+}
+
+/* SECTION 3  */
+
+#section3 {
+    margin: 10% 0px;
+}
+
+
+#section3 img {
+    width: calc(100% /2);
+}
+
+#section3 div {
+    margin-left: 40px;
+    align-items: center;
+    margin-top: 7%;
+}
