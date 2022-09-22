@@ -85,6 +85,11 @@ header {
     width: 100%;
 }
 
+
+.jumbo {
+    position: relative;
+}
+
 .didtitolo {
     padding-top: 20px;
 }
@@ -153,7 +158,7 @@ section li {
 
 .sec2 {
     border: 1px solid lightgray;
-    margin-top: 20px;
+    margin-top: 5%;
 }
 
 .pad2 {
@@ -179,11 +184,12 @@ p {
     margin-bottom: 60px;
 }
 
+/* SECTION 3  */
+
 .sec3 {
     border: 1px solid lightgray;
+    margin-bottom: 15%;
 }
-
-/* SECTION 3  */
 
 #section3 {
     margin: 10% 0px;
