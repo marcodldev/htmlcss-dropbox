@@ -65,6 +65,7 @@
         top: 0;
         background-color: white;
         font-weight: bold;
+        z-index: 1;
      }
 
      header {
@@ -105,7 +106,7 @@
      }
 
      .tab2 {
-        width: calc(100%3);
+        width: calc(100%/3);
         border: 1px solid lightgray;
         padding-bottom: 10%;
      }
