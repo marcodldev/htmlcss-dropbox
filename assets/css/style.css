@@ -43,10 +43,6 @@
     position: relative;
 }
 
-.pad1 {
-    padding: 15px 20px;
- }
-
  button {
     background-color: #0061ff;
     padding: 10px 20px;
@@ -68,6 +64,7 @@
         width: 100%;
         top: 0;
         background-color: white;
+        font-weight: bold;
      }
 
      header {
@@ -110,7 +107,11 @@
      .tab2 {
         width: calc(100%3);
         border: 1px solid lightgray;
-        margin-right: 10px;
+        padding-bottom: 10%;
+     }
+
+     #margtab2 {
+        margin: 0 10px;
      }
 
      .kindofppl {
@@ -130,6 +131,36 @@
         color: #0061ff;
      }
 
+     .pad1 {
+        padding: 15px 20px;
+     }
+
      .offerte h2 {
         margin: 20px 0px;
      }
+       
+     /* SECTION 2  */
+
+     .sec2 {
+        border: 1px solid lightgray;
+        margin-top: 20px;
+     }
+
+     .pad2 {
+        padding: 20px 20px;
+     }
+
+     h2 {
+        margin: 20px 0;
+     }
+
+     #section2 button,p {
+        margin: 20px 0;
+        
+     }
+
+     #scritte { 
+        width: 70%;
+
+     }
+    
