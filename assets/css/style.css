@@ -118,6 +118,7 @@
         width: 100%;
         text-align: center;
         border-bottom: 1px solid lightgrey;
+        padding: 10px 0px;
      }
 
      .offerte button {
