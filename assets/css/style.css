@@ -20,3 +20,24 @@
     margin: 0 auto;
     width: 80%;
 }
+
+.inline {
+    display: inline;
+}
+
+.align-center {
+    align-items: center;
+}
+
+     /* HEADER  */
+
+     li {
+        list-style: none;
+        display: inline ;
+     }
+
+     nav {
+        padding: 20px 40px;
+        position: fixed;
+        width: 100%;
+     }
