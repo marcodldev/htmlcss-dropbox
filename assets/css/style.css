@@ -17,9 +17,9 @@
     justify-content: space-between
 }
 
-.container-40 {
+.container-50 {
     margin: 0 auto;
-    width: 40%;
+    width: 50%;
 }
 
 .container-60 {
@@ -90,4 +90,26 @@
 
      .titmain {
         padding: 8% 0px;
+     }
+
+     .tab1 {
+        
+     }
+
+
+     .tab2 {
+        width: calc(100%3);
+        border: 1px solid lightgray;
+        margin-right: 10px;
+     }
+
+     .kindofppl {
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid lightgrey;
+     }
+
+     .offerte {
+        padding: 15px 20px;
      }
