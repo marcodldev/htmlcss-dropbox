@@ -47,6 +47,13 @@
     padding: 15px 20px;
  }
 
+ button {
+    background-color: #0061ff;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+ }
+
 
      /* HEADER  */
 
@@ -60,6 +67,7 @@
         position: fixed;
         width: 100%;
         top: 0;
+        background-color: white;
      }
 
      header {
@@ -99,11 +107,6 @@
         padding: 8% 0px;
      }
 
-     .tab1 {
-        
-     }
-
-
      .tab2 {
         width: calc(100%3);
         border: 1px solid lightgray;
@@ -123,4 +126,9 @@
 
      .icons {
         font-size: larger;
+        color: #0061ff;
+     }
+
+     .offerte h2 {
+        margin: 20px 0px;
      }
