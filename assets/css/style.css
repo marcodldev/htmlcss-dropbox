@@ -139,7 +139,12 @@
      .offerte h2 {
         margin: 20px 0px;
      }
-       
+      
+     section li {
+        display: block;
+        line-height: 30px;
+     }
+
      /* SECTION 2  */
 
      .sec2 {
