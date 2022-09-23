@@ -68,6 +68,16 @@ nav {
     z-index: 1;
 }
 
+nav li {
+    align-items: center;
+    margin-left: 10px;
+    color: grey;
+}
+
+.divnav {
+    align-items: center;
+}
+
 header {
     background-color: #b4d0e7;
 }
@@ -253,16 +263,22 @@ p {
         padding: 2.5%;
     }
 
+    .solidb {
+        border: 10px solid #d1e9cd;
+    }
+
     .containerloghi {
         height: calc(100vw/3);
     }
 
     .partner img {
         width: 50%;
+        justify-content: center;
     }
 
     .partner {
-
+        align-items: center;
+        justify-content: center;
     }
     
     .bgpos {
@@ -289,6 +305,21 @@ p {
         background-color: #ff1c1c;
     }
 
+    .red2 {
+        background-color: #d5001f;
+    }
+
+    .lightazure {
+        background-color: #b4d0e7;
+    }
+
+    .darkblue {
+        background-color: #0d2481;
+    }
+
+    .yello {
+        background-color: #ffd830;
+    }
 
      /* SEZIONE PROVA GRATUITA  */
 
