@@ -333,9 +333,34 @@ p {
 
     #provagratuita {
        background-color: #b4d0e7;
-       padding: 3% 0;
+       padding: 6% 0;
        justify-content: space-between;
     }
 
+     /* SEZIONE FAQ  */
 
-          /* SEZIONE FAQ  */
+    
+    #faq {
+       padding: 5% 0px;
+    } 
+
+    .underline {
+        border-bottom: 1px solid grey;
+        line-height: 50px;
+        font-weight: bold;
+    }
+
+    .underline h1 {
+        margin-bottom: 5%;
+    }
+
+         /* SEZIONE FOOTER MENU  */
+
+    #footermenu {
+        background-color: black;
+        color: white;
+    }
+    
+    .listamenu {
+        padding: 5% 0px;
+    }
