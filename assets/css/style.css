@@ -214,10 +214,11 @@ p {
      /* SECTION 4  */
 
  .tab6 img {
-    width: calc(100% /3);
+    width: 90%;
     justify-content: center;
  }  
 
- #section4 {
+ .tab6 div{
+    margin: 25px 5px 0px 5px;
 
  }
