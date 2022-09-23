@@ -210,3 +210,14 @@ p {
     align-items: center;
     margin-top: 7%;
 }
+
+     /* SECTION 4  */
+
+ .tab6 img {
+    width: calc(100% /3);
+    justify-content: center;
+ }  
+
+ #section4 {
+
+ }
