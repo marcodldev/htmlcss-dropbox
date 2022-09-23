@@ -244,25 +244,25 @@ p {
     }
 
     .section6 div {
-        width: calc(98%/2);
+        width: calc(100%/2);
         flex-wrap: wrap;
     }
 
     .design {
         background-color: #f5f5f5;
+        padding: 2.5%;
     }
 
     .containerloghi {
         height: calc(100vw/3);
     }
 
-    .bordi img {
+    .partner img {
         width: 50%;
     }
 
-    .bordi {
-        border: 2px solid blue;
-        border-style: inset;
+    .partner {
+
     }
     
     .bgpos {
