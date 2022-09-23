@@ -92,6 +92,8 @@ header {
 
 .didtitolo {
     padding-top: 20px;
+    position: relative;
+    top: 40px;
 }
 
 .didtitolo button {
@@ -100,7 +102,7 @@ header {
 
 #idicona {
     position: absolute;
-    bottom: 2%;
+    bottom: 11%;
     font-size: xxx-large;
 }
 
@@ -152,6 +154,9 @@ header {
 section li {
     display: block;
     line-height: 30px;
+    margin-bottom: 20px;
+    text-indent: -10px;
+    padding-left: 1.2em;
 }
 
 /* SECTION 2  */
