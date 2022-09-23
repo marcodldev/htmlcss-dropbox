@@ -364,3 +364,20 @@ p {
     .listamenu {
         padding: 5% 0px;
     }
+
+    #linetta {
+        border: 1px solid grey;
+    }
+
+    .flag {
+        color: grey;
+        padding: 2% 0px;
+    }
+
+    .flag span {
+        margin-left: 5px;
+    }
+
+    #finalborder {
+        border: 1px solid white;
+    }
