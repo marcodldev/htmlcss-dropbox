@@ -222,3 +222,58 @@ p {
     margin: 25px 5px 0px 5px;
 
  }
+
+    /* SECTION 5  */
+
+    #section5 h2 {
+
+        font-weight: bold;
+    }
+
+    #section5 , #linksec5 {
+        margin: 20px 0;
+    }
+
+
+       /* FOOTER / 
+
+       SECTION 6  */
+
+    .section6 div {
+        margin-top: 5%;
+        width: calc(98%/3);
+        flex-wrap: wrap;
+    }
+
+    .containerloghi {
+        height: calc(100vw/3);
+    }
+
+    .bordi {
+        border: 2px solid blue;
+        border-style: inset;
+    }
+    
+    .bgpos {
+        background-position: center;
+        background-size: cover;
+    }
+
+
+    /* SEC 6 COLORS */
+
+    .green {
+        background-color: #a2d39b;
+    }
+
+    .darkred {
+        background-color: #61082b;
+    }
+
+    .azure {
+        background-color: #0093ce;
+    }
+
+    .red1 {
+        background-color: #ff1c1c;
+    }
