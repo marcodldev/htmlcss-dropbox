@@ -262,6 +262,10 @@ p {
         width: 50%;
     }
 
+    .of-autom {
+        overflow: auto;
+    }
+
     .design {
         background-color: #f5f5f5;
         padding: 2.5%;
@@ -356,6 +360,51 @@ p {
 
     .underline h1 {
         margin-bottom: 5%;
+    }
+
+    .riga2 li, .riga1 li , .riga3 li {
+        display: none;
+    }
+
+    .riga2:hover li ,.riga1:hover li,.riga3:hover li {
+        display: block;
+        cursor: pointer;
+    }
+
+    .riga2:hover .fa-chevron-down {
+        display: none;
+    }
+
+    .riga2 .fa-chevron-up {
+        display: none;
+    }
+
+    .riga2:hover .fa-chevron-up {
+        display: block;
+    }
+   /* --------- */
+    .riga1 .fa-chevron-up {
+        display: none;
+    }
+    
+    .riga1:hover  .fa-chevron-up{
+        display: block;
+    }
+
+    .riga1:hover .fa-chevron-down{
+        display: none;
+    }
+
+    .riga3 .fa-chevron-up {
+        display: none;
+    }
+
+    .riga3:hover .fa-chevron-up {
+        display: block;
+    }
+
+    .riga3:hover .fa-chevron-down {
+        display: none;
     }
 
          /* SEZIONE FOOTER MENU  */
