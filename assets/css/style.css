@@ -148,6 +148,10 @@ header {
 
 /* MAIN      */
 
+#radio1 {
+    margin-left: 10px;
+}
+
 .titmain {
     padding: 8% 0px;
 }
