@@ -99,9 +99,10 @@ nav li {
     color: grey;
 }
 
-nav:hover li {
+nav li:hover  {
     cursor: pointer;
-    border-bottom: 5px solid black;
+    border-bottom: 3px solid black;
+    padding-bottom: 25px;
 }
 
 .divnav {
