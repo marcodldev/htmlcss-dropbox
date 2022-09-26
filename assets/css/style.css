@@ -51,13 +51,24 @@ button {
 }
 
 button:hover {
-    
+    background-color: #3682fc;
+    cursor: pointer;
 }
 
 .btn2 {
     background-color: white;
     color: grey;
     border: 1px solid grey;
+}
+
+.btn2:hover {
+    background-color: white;
+    color: lightgrey;
+}
+
+.btn3:hover{
+    background-color: rgb(232, 232, 232);
+    color: rgb(0, 0, 0);
 }
 
 .btn3 {
@@ -86,6 +97,11 @@ nav li {
     align-items: center;
     margin-left: 10px;
     color: grey;
+}
+
+nav:hover li {
+    cursor: pointer;
+    border-bottom: 5px solid black;
 }
 
 .divnav {
