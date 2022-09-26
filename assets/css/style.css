@@ -50,6 +50,20 @@ button {
     color: white;
 }
 
+button:hover {
+    
+}
+
+.btn2 {
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.btn3 {
+    background-color: white;
+    color: black;
+}
 
 /* HEADER  */
 
@@ -242,6 +256,10 @@ p {
 
     #section5 , #linksec5 {
         margin: 20px 0;
+    }
+
+    #section5 h1 {
+        margin: 5% 0px;
     }
 
 
